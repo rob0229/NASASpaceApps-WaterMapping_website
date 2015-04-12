@@ -1,0 +1,43 @@
+.btn{
+	width: 100px; height: 30px;
+	margin: 10px;
+	float: left;
+	text-align: center;
+	background-color: #000;
+	border: 2px solid black;
+	color: white;
+	font-size: 20px;
+	line-height: 30px;
+	cursor: pointer;
+}
+#map-canvas{
+	width: 500px;
+	height:400px;
+	background-color: #CCC;
+	margin:auto;
+}
+.navbar{
+	height: 10%;
+	width: 80%;
+	background-color: rgba(0,0,0, .5);
+	font-size: 2em;
+	margin:auto;
+}
+.container{
+	height: 100%;
+	width: 80%;
+	background-color: rgba(0,0,0, .2);
+	font-size: 2em;
+	margin: auto;
+}
+.loginDiv{
+	top: 20%;
+	margin: auto;
+	font-size: 2em;
+	background-color: rgba(0,0,0,.2);
+}
+.registerFields{
+	margin:auto;
+	font-size: 2em;
+}
+
